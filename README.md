@@ -1,4 +1,4 @@
-# Streets of Rage 1 MD Plus
+# New Zealand Story MD Plus
  Contains the source code for the patch used to make New Zealand Story compatible with MD+
  
 #### Thanks to:
